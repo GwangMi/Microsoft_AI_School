@@ -1,0 +1,30 @@
+< Which Face Is Real? >
+https://www.whichfaceisreal.com/
+
+< LM Arena Board >
+https://lmarena.ai/
+
+< Segment Anything Playground >
+https://segment-anything.com/demo
+
+< Emu Video >
+https://emu-video.metademolab.com/#/demo
+
+< VCR >
+https://visualcommonsense.com/
+
+< UniAudio Demo >
+https://dongchaoyang.top/UniAudio_demo/
+
+< MusicGEN Demo >
+https://audiocraft.metademolab.com/musicgen.html
+
+< MusicGEN Comparison >
+https://ai.honu.io/papers/musicgen/
+
+< PaLM-E Demo >
+https://palm-e.github.io/#demo
+
+< RT-2 Demo >
+https://robotics-transformer2.github.io/#demo
+

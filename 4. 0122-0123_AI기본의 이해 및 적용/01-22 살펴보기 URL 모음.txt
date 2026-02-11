@@ -1,0 +1,32 @@
+< Nobelprize >
+https://www.nobelprize.org/
+
+< Turing Award >
+https://amturing.acm.org/
+
+< MMLU-Pro Leaderboard >
+https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro
+
+< WildBench >
+https://huggingface.co/spaces/allenai/WildBench
+
+< Chain of Thought thinking in o1 >
+https://openai.com/index/learning-to-reason-with-llms/
+
+< VCR >
+https://visualcommonsense.com/
+
+< LM Arena >
+https://lmarena.ai/
+
+< BigCodeBench Leaderboard >
+https://bigcode-bench.github.io/
+
+< LM Arena - math >
+https://lmarena.ai/leaderboard/text/math
+
+< GPQA Leaderboard - Epoch AI >
+https://epoch.ai/benchmarks/gpqa-diamond
+
+< ARC-AGI Leaderboard >
+https://arcprize.org/leaderboard

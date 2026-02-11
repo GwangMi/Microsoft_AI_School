@@ -1,0 +1,112 @@
+< OpenAI Sora >
+https://openai.com/index/sora/
+
+< Google Deepmind Veo 3 >
+https://deepmind.google/models/veo/
+
+< Google Deepmind Genie 3 >
+https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/
+
+< My Lens AI >
+https://mylens.ai/
+
+< ChatGPT >
+https://chatgpt.com/
+
+< Bing Copilot >
+https://copilot.microsoft.com/
+
+< Gemini >
+https://gemini.google.com/app
+
+< 말 도둑 문제 프롬프트 >
+말 한 마리를 도둑 맞았다. 주인은 도둑이 이미 37리를 도망 갔을 때 그것을 발견하고 도둑을 쫓기 시작했다. 주인이 145리를 이동한 후에도 도둑은 여전히 23리 앞에 있다는 것을 알았다. 주인이 도둑을 잡을 때까지 몇 리를 더 이동해야 하는가?
+
+< 물통 문제 >
+눈금이 없는 12L, 7L, 5L 사이즈의 물통이 있다. 물통 세 개만 사용하여 정확히 6L의 물을 얻기 위한 최단 절차는?
+
+< 실수 크기 비교 문제 >
+9.9와 9.11 중 더 큰 숫자는?
+
+< 24 퍼즐 문제 프롬프트 >
+4, 4, 2, 6 네 숫자를 한번씩 사용하고 사칙연산을 써서 24를 만들어 주세요.
+
+< 딸기 테스트 프롬프트 >
+'Strawberry'라는 단어에 문자 'r'이 몇 개 들어 있을까?
+Strawberry와 cherry 두 단어 중 문자 r의 개수가 더 많은 단어는?
+
+< 시각적 추론 프롬프트 >
+이미지에 보이는 손가락의 개수는 몇 개일까요?
+
+< 공간 추론 프롬프트 >
+화살표를 따라서 사람 이름과 사람 색깔을 매치시켜줘.
+
+< DealRoom Co - 생성 AI Start-ups >
+https://app.dealroom.co/lists/33530
+
+< Future Tools >
+https://www.futuretools.io/
+
+< Top AI Tools >
+https://topai.tools/
+
+< Hugging Face >
+https://huggingface.co/
+
+< Arxiv >
+https://arxiv.org/
+
+< Lovable >
+https://lovable.dev/
+
+< OpenAI Agent Builder >
+https://platform.openai.com/agent-builder
+
+< Google Opal >
+https://opal.google/
+
+< Rytr >
+https://rytr.me/
+
+< Gamma >
+https://gamma.app/
+
+< Napkin >
+https://www.napkin.ai/
+
+< GuideGeek >
+https://guidegeek.com/
+
+< Dishgen >
+https://www.dishgen.com/
+
+< ChatGPT gpt-image >
+카페에서 마주 보며 대화하는 한국 남녀 커플 사진을 만들어 주세요.
+
+< Nano Banana >
+https://deepmind.google/models/gemini/image/
+https://lmarena.ai/leaderboard
+
+< Runway ML >
+https://runwayml.com/
+
+< Sora >
+https://openai.com/ko-KR/sora/
+
+AI 교육 홍보 영상을 만들어 줘. 첨부 이미지로부터 시작하고, 줌아웃 하면서 강아지와 고양이가 웃고 있는 활기찬 교실 배경으로 전환해 줘.
+나레이션 : "모두가 함께 성장하는 마이크로소프트 AI 스쿨로 오세요."
+
+< Veo 3 >
+https://deepmind.google/models/veo/
+
+< Flow 3 >
+https://labs.google/flow
+
+< DeepL >
+https://www.deepl.com/ko/translator
+
+< Heigen >
+https://www.heygen.com/
+
+
+

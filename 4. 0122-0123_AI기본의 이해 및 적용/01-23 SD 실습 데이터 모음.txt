@@ -1,0 +1,67 @@
+[ SDXL 1.0 Base 모델 설치 ]
+
+https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
+
+
+[ SDXL 1.0 Refiner 모델 설치 ]
+
+https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0
+
+
+[ 텍스트 프롬프트 연습 ] 
+
+1. A sorceress
+2. Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing
+3. Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting
+4. Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body
+5. Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha
+6. Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha, artstation
+7. Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha, artstation, highly detailed, sharp focus, sci-fi, stunningly beautiful, dystopian, iridescent gold
+
+
+[ 부정 프롬프트 연습 ]
+
+portrait photo of a man
+portrait photo of a man without mustache
+
+
+[ Refiner ]
+
+- 프롬프트 : girl alone. photo, solo, incredibly absurd, hoodie, headphones, street, outdoor, rain
+- 부정 프롬프트 : disfigured, ugly, bad, immature, carton, anime, painting, b&w
+
+
+[ 손가락/건반 이미지 테스트 ]
+
+- 프롬프트 : Photo, incredibly absurd, 1girl, looking at viewer, playing piano, blue eyes, pale skin, black hair, straight hair, modern room, artistic composition, perfect face, vibrant color, light and shadow
+- 부정 프롬프트 : anime, painting, disfigured, ugly, immature, carton, painting, low contrast, noisy, (worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, bad hands, ((monochrome)), ((grayscale)) watermark
+
+
+[ LoRA : CivitAI URL ]
+
+https://civitai.com/
+
+
+[ ControlNet Openpose : 프롬프트 ]
+
+- 프롬프트 : 1 woman standing at home
+- 부정 프롬프트 : anime, painting, disfigured, ugly, immature, carton, painting, low contrast, noisy, (worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, bad hands, ((monochrome)), ((grayscale)) watermark
+
+
+[ ControlNet Openpose : posemy.art ]
+
+https://app.posemy.art/
+
+
+[ ControlNet Canny : 프롬프트 ]
+
+- 프롬프트 : (knee shot:2), (full body:2), beatiful asian woman, a young female, highlights in hair, standing outside restaurant, smile, blue eyes, wearing a dress, side light, masterpiece, HDR, UHD, photorealistic
+- 부정 프롬프트 : disfigured, ugly, bad, immature, b&w, nsfw
+
+
+[ FLUX 프롬프트 ]
+
+realistic photo of a woman, looking at viewer, playing piano, blue eyes, pale skin, black hair, straight hair, modern room, artistic composition, perfect face, vibrant color, light and shadow play
+
+
+
